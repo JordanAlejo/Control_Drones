@@ -288,29 +288,14 @@ Python interpreta estos comandos y modifica el estado de la simulación.
 
 ### Simulación
 
-> Colocar aquí una captura de PyBullet.
 
-```text
-[ INSERTAR IMAGEN ]
-```
+![Simulación de drones](images/Drones.png)
 
-### ESP32 + teclado
-
-> Colocar aquí una fotografía del montaje físico.
-
-```text
-[ INSERTAR IMAGEN ]
-```
 
 ### Diagrama del sistema
 
-> Colocar aquí el diagrama de conexiones.
+![Simulación de drones](images/ESP32.png)
 
-```text
-[ INSERTAR IMAGEN ]
-```
-
----
 
 ## 📚 Base del proyecto
 
